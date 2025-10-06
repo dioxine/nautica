@@ -1,5 +1,3 @@
-# Welcome to Nautica
-
 # Deploying
 
 ## Instant
